@@ -133,6 +133,10 @@
     color: #aeaeae;
 }
 
+.salary input {
+    width: 100px;
+}
+
 @keyframes newAnim {
     from {
         transform: translateX(-200px);
